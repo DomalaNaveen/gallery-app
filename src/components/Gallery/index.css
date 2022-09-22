@@ -1,0 +1,25 @@
+.active-img {
+  width: 60%;
+  height: 60%;
+  margin: 50px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin: 50px;
+}
+.description {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: 50px;
+}
+.thumbnail-item {
+  display: flex;
+  flex-direction: row;
+}
